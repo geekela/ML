@@ -1,1 +1,1 @@
-Here is a selection of some projects I developed in my Undergraduate Studies
+In docs, you can find a selection of projects I developed in my Undergraduate Studies
